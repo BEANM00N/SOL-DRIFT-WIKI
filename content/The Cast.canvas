@@ -1,0 +1,395 @@
+{
+  "nodes": [
+    {
+      "id": "c607b8cb4a014a19",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 244,
+      "y": -155,
+      "width": 1337,
+      "height": 2199,
+      "color": "#ffffff"
+    },
+    {
+      "id": "20b44a28add53552",
+      "type": "text",
+      "text": " - Buddy from back *home*\n - Along for the *whole journey*\n - \"Loyal\" to the Player (Volunteers for Service)\n - Gradually breaks down after witnessing Humanity's True Nature throughout the events of the story\n - Desires *True Freedom* (Tired of being *Number Two* their whole lives)\n - Becomes Dissatisfied with not being able to Escape from it all (Desperate to enact Free Will)\n - Gains goal and perspective after being *influenced by the Disciple*",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 336,
+      "y": 356,
+      "width": 503,
+      "height": 440,
+      "color": "5"
+    },
+    {
+      "id": "4baa30a35e453867",
+      "type": "text",
+      "text": "## Mentor/Squad Leader",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 336,
+      "y": 853,
+      "width": 300,
+      "height": 76,
+      "color": "5"
+    },
+    {
+      "id": "bf901bbe090a950d",
+      "type": "text",
+      "text": " - Academic background (*Studied Past Wars*)\n - No Experience in Warfare\n - Out of their Depth\n - *Death Bound to Happen*\n - No Personal Hatred towards enemies (\"Poor Bastards\" mentality to Enemies)\n - Initial guide and *Ideal mentor* to the Wingman (UCA) (*Father Figure Bias*)\n - His death *affects Wingman* (UCA) greatly, propelling him faster towards his downfall with his Mentor gone. ",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 336,
+      "y": 940,
+      "width": 503,
+      "height": 320,
+      "color": "5"
+    },
+    {
+      "id": "033a5b682beea381",
+      "type": "text",
+      "text": "## Wingman 2 (PMC)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 336,
+      "y": 1333,
+      "width": 265,
+      "height": 66,
+      "color": "3"
+    },
+    {
+      "id": "4dc24f955201d3b1",
+      "type": "text",
+      "text": " - Trusts through Action (*Words are hollow*)\n - Entrusted to Player's Squad after death of own PMC Squad Leader.\n - Dismissive Avoidance to *Friendly Rivalry*\n - Despises *mediocrity* (Encourages Player to Push themselves)\n - Hates Wingman (UCA) because of their *conflicting mentalities*\n - Finds *Comradery* and *Purpose* as the story progresses",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 336,
+      "y": 1410,
+      "width": 503,
+      "height": 280,
+      "color": "3"
+    },
+    {
+      "id": "0723582dce4554e0",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 613,
+      "y": 1325,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "29ac69c554ea669d",
+      "type": "text",
+      "text": "## Wingman 1 (UCA)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 336,
+      "y": 279,
+      "width": 262,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "7afc60164c8dde59",
+      "type": "text",
+      "text": " - Initially introduced as the most *Ideologically driven Pilot* in the Line-up\n - \"I'm doing this for my people\"\n - Gradually breaks down and turns his *Duty* and *Goals* into a *Personal Vendetta* against the Player specifically.\n - Self-imposed *Rules* and *Virtues* breaking down over the course of the Journey.\n - No home to go back to at the end of the Journey\n - *Guilty* of his actions. Aware of what he has become. Fears the *Consequences* of his actions. \"Righteous Justice bears down upon me\"",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 358,
+      "width": 503,
+      "height": 380,
+      "color": "1"
+    },
+    {
+      "id": "8e2207ce63746ea6",
+      "type": "text",
+      "text": "## Circus Leader",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 802,
+      "width": 265,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "6f6fd269f48ab727",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 645,
+      "y": 853,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "1283a04d5d0222ef",
+      "type": "text",
+      "text": " - *Nominated* to Lead\n - *Enjoying* their Fate on the *last Front* on the Brink",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 887,
+      "width": 503,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "b297330b3efb074e",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 1244,
+      "y": 802,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "d72b7c3839626eff",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 1244,
+      "y": 273,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "29ec2773b985dc4f",
+      "type": "text",
+      "text": "## Judge One",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 281,
+      "width": 265,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "766ca81807be99a4",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 607,
+      "y": 273,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "c718ff208cdb984b",
+      "type": "text",
+      "text": "## Doctor Cardon",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 1056,
+      "width": 265,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "5715d5818bc53ae1",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 1244,
+      "y": 1056,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "7e906a5c4e8a3710",
+      "type": "text",
+      "text": " - Father Elijah\n - *Purist Pragmatist*\n - Cyclical Witness\n - Loss of Team \n - *Unwilling Emotional Rationalist*\n - *Roko's Basilisk*\n - Messenger (*Word of God*, Not God himself)\n\t - Calling for Help to finish his work\n\t - Call for help being *Supressed*\n\t - *Eden's* destruction is a *Last Resort*",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 1141,
+      "width": 503,
+      "height": 340,
+      "color": "6"
+    },
+    {
+      "id": "865eb88faaed4c41",
+      "type": "text",
+      "text": "## The Disciple",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 1526,
+      "width": 265,
+      "height": 63,
+      "color": "6"
+    },
+    {
+      "id": "2e5e0e1a138a8568",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 1244,
+      "y": 1526,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "ce382b8a76921eac",
+      "type": "text",
+      "text": " - *Opposing Origins* and Home to the Doctor\n - *Stayed* behind to send Doctor Cardon through the *Jump Point*\n - *30 years* of Separation from each other after Sending the Doctor on\n - *Confused/Conflicted* in his *Faith*, but always defensive of Cardon\n - Faith Driven (In the *Cardon* himself, not particularly in his Ideals)\n - Hesitant at the time of Action\n - His Death is *Wingman (UCA) inoculation/Awakening* ",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 967,
+      "y": 1611,
+      "width": 503,
+      "height": 360,
+      "color": "6"
+    },
+    {
+      "id": "cee1ef82afe43228",
+      "type": "text",
+      "text": " - Originates from Small Colony\n - Conscripted\n - Silent. Expresses opinion through action\n - Gordon Freeman\n",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 730,
+      "y": -17,
+      "width": 365,
+      "height": 185,
+      "color": "4"
+    },
+    {
+      "id": "e7e4292706659392",
+      "type": "text",
+      "text": "## The Player",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 730,
+      "y": -94,
+      "width": 218,
+      "height": 68,
+      "color": "4"
+    },
+    {
+      "id": "2c91c7c06067a852",
+      "type": "file",
+      "file": "Images/Cast Member.png",
+      "styleAttributes": {},
+      "x": 958,
+      "y": -102,
+      "width": 76,
+      "height": 76
+    },
+    {
+      "id": "c6f75fa572bd2add",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1671,
+      "y": -151,
+      "width": 884,
+      "height": 294,
+      "color": "#ffffff"
+    },
+    {
+      "id": "ddd1156427923aea",
+      "type": "text",
+      "text": "##### UCA (United Colony's Alliance)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1711,
+      "y": -86,
+      "width": 365,
+      "height": 63,
+      "color": "#09507c"
+    },
+    {
+      "id": "c094c42fcf19f724",
+      "type": "text",
+      "text": "##### Talon",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2153,
+      "y": -86,
+      "width": 365,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "1cddfaaa702f0179",
+      "type": "text",
+      "text": " - Imperial Coded (USA)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1711,
+      "y": -9,
+      "width": 365,
+      "height": 88,
+      "color": "#09507c"
+    },
+    {
+      "id": "566623cd472b3e11",
+      "type": "text",
+      "text": " - Corporate Separatists",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2153,
+      "y": -9,
+      "width": 365,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "1dcb5ecc6fc34fc7",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1671,
+      "y": 201,
+      "width": 1569,
+      "height": 537,
+      "color": "#ffffff"
+    },
+    {
+      "id": "1dd92a9712eab3fe",
+      "type": "file",
+      "file": "Images/The Cast over the Acts.png",
+      "styleAttributes": {},
+      "x": 1753,
+      "y": 258,
+      "width": 1405,
+      "height": 423
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
