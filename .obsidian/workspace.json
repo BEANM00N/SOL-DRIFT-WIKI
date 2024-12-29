@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "78d7b21971b82306",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc039548c346e5fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c6fadaff05f05a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "content/The Cast.canvas",
+                "viewState": {
+                  "x": 1593.8462727610804,
+                  "y": 624.3322968018329,
+                  "zoom": -0.7871106317376949
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "The Cast"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da5eb565d4a8439b",
+    "type": "split",
+    "children": [
+      {
+        "id": "457aed793ed926d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3be3e14e99346819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e1e82decce201c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8da0226da63fa17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4bc12f5d44356fc4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8630921107c83841",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b4e7ccec5666e1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff7d39da027d9839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "4c5fd45b36dd3b09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "7d6a89baa45b0e50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8396a7e33c1f5d77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/index.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "94c6fadaff05f05a",
+  "lastOpenFiles": [
+    "Images/Cast Member.png",
+    "Images/The Cast over the Acts.png",
+    "Images",
+    "content/The Cast.canvas",
+    "Tags",
+    "docs/index.md",
+    "docs/build.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md"
+  ]
+}
