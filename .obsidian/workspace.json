@@ -176,8 +176,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3be3e14e99346819",
+  "active": "d233f0b8321f8bc9",
   "lastOpenFiles": [
+    "content/MISC Folder/P-JOSH Folder/Dev Note.md",
+    "content/index.md",
     "node_modules/y18n/build/lib/platform-shims/node.js",
     "node_modules/y18n/build/lib/platform-shims",
     "node_modules/y18n/build/lib/cjs.js",
@@ -190,10 +192,8 @@
     "node_modules/y18n/CHANGELOG.md",
     "node_modules/y18n/index.mjs",
     "node_modules/y18n/build",
-    "node_modules/y18n",
     "node_modules/readdirp/README.md",
     "node_modules/sisteransi/readme.md",
-    "content/index.md",
     "node_modules/typescript/SECURITY.md",
     "node_modules/speech-rule-engine/README.md",
     "node_modules/speech-rule-engine/lib/README.md",
