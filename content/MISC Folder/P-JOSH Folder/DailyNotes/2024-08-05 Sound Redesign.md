@@ -1,0 +1,11 @@
+ - [x] New Warp In SFX
+ - [ ] New Missile launch
+ - [ ] Ship Hit SFX (look at tank ricochet)
+ - Look into Spalling
+ - Tank Armour differences in sound
+ - [x] Foxcat
+	 - [x] Boost
+	 - [x] Base Engine
+ - [ ] Vamp-1R
+	 - [ ] Boost
+	 - [ ] Base Engine

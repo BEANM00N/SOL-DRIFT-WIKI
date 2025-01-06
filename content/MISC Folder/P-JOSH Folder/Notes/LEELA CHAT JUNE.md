@@ -1,0 +1,13 @@
+ - Find Similar games to SOL drift
+	 - genre
+	 - mechanics
+	 - Scale of team
+	 - Studio and Publisher (Overlap)
+ - Steam DB
+	 - Reviews
+	 - range of Potential sales (Maximum, Minimum, and expected value) These will all help answer questions.
+ - How much will it cost?
+ - What's the budget?
+ - How long will it take to make?
+ - How long will the game be?
+ 

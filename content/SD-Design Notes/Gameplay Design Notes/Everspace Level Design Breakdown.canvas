@@ -1,0 +1,173 @@
+{
+	"nodes":[
+		{
+			"id":"75f3c2a6d2abc95a",
+			"type":"file",
+			"file":"IMAGES/Everspace Level Breakdown 2.png",
+			"styleAttributes":{},
+			"x":1559,
+			"y":84,
+			"width":640,
+			"height":652
+		},
+		{
+			"id":"3e70d29049105c33",
+			"type":"file",
+			"file":"SD-Design Notes/Level Design Research.md",
+			"styleAttributes":{},
+			"x":1559,
+			"y":-355,
+			"width":640,
+			"height":400
+		},
+		{
+			"id":"8cacd6b175f588eb",
+			"type":"text",
+			"text":"*Colour* Change draws eye to Foreground (Objective)",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":"center"
+			},
+			"x":2095,
+			"y":113,
+			"width":262,
+			"height":59,
+			"color":"#ffffff"
+		},
+		{
+			"id":"e50770aced86838d",
+			"type":"text",
+			"text":"*No Objective Marker*",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2155,
+			"y":184,
+			"width":202,
+			"height":60,
+			"color":"#ffffff"
+		},
+		{
+			"id":"a28566ff6e349faa",
+			"type":"text",
+			"text":"*Volumetric* Nebula has a Break (Relief) in Middleground, expanding background and drawing distinct border",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1393,
+			"y":244,
+			"width":250,
+			"height":166
+		},
+		{
+			"id":"d60760864ba39bc5",
+			"type":"text",
+			"text":"Because of how abstract and *Simplistic* space can be, it's easier to approach larger and more open levels through the lens of cinematography rather than relying on traditional level design principles.\n\n*Framing* tends to be a method that is utilised more in this specific case, outlining and drawing clear boundaries between *Foreground, Middleground, and Background*. ",
+			"styleAttributes":{},
+			"x":1559,
+			"y":761,
+			"width":640,
+			"height":267
+		},
+		{
+			"id":"3918f99851363b39",
+			"type":"file",
+			"file":"IMAGES/Everspace Level Breakdown 3.png",
+			"styleAttributes":{},
+			"x":1559,
+			"y":1046,
+			"width":640,
+			"height":656
+		},
+		{
+			"id":"557875988b51f36c",
+			"type":"file",
+			"file":"IMAGES/Everspace Level Breakdown 3.png",
+			"styleAttributes":{},
+			"x":1559,
+			"y":1046,
+			"width":640,
+			"height":656
+		},
+		{
+			"id":"4bb98952d83992d2",
+			"type":"text",
+			"text":"*Entrance* to Broken Asteroid immediately establishes framing, now filling the *background* Landmarks (The Sun)",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1406,
+			"y":1220,
+			"width":240,
+			"height":154
+		},
+		{
+			"id":"be6449aa96738229",
+			"type":"file",
+			"file":"IMAGES/Everspace Level Breakdown 4.png",
+			"styleAttributes":{},
+			"x":1559,
+			"y":1882,
+			"width":640,
+			"height":647
+		},
+		{
+			"id":"dc43b86ace0d235b",
+			"type":"text",
+			"text":"*Narrower Frame* affords more *distinct boundaries*, encouraging more intentional placement of Objectives",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2111,
+			"y":1082,
+			"width":268,
+			"height":123
+		},
+		{
+			"id":"1d519268468b511c",
+			"type":"text",
+			"text":"*Sun* was introduced as *Background Landmark* when entering. *Sun Rays* indicate direction and position relative to player",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1398,
+			"y":1921,
+			"width":268,
+			"height":128
+		},
+		{
+			"id":"ba08e1788bfb560e",
+			"type":"text",
+			"text":"*Rays Break through opening in Foreground and Middle Ground*",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1398,
+			"y":2049,
+			"width":268,
+			"height":65
+		},
+		{
+			"id":"4f3c74bf4659ee92",
+			"type":"text",
+			"text":"Mini Asteroid Field Breaks up *Middleground* whilst simultaneously *Plugging up* the crack in the Mega Asteroid",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2119,
+			"y":1921,
+			"width":294,
+			"height":113
+		},
+		{
+			"id":"495d6765ecb468de",
+			"type":"file",
+			"file":"IMAGES/Everspace Level Breakdown 1.png",
+			"styleAttributes":{},
+			"x":1559,
+			"y":2608,
+			"width":640,
+			"height":649
+		},
+		{
+			"id":"5dfa10e9066bf675",
+			"type":"text",
+			"text":"Deliberate *Spacing* and *Scaling* can form a faster understanding of *Limitations* and *Distance*, implanting upon the player the *Playspace Boundaries*, without them having to think about it or feeling lost in finding it.",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":1559,
+			"y":1720,
+			"width":640,
+			"height":162
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

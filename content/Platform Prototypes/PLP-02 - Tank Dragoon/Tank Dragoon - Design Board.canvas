@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6b5e85da37aceebf","type":"text","text":"Isometric shooter Roguelike","x":-38,"y":-96,"width":250,"height":60},
+		{"id":"ab3b830899fd69d4","type":"file","file":"IMAGES/500px-Survivor_Upgrades.webp","x":-480,"y":160,"width":400,"height":245},
+		{"id":"2053cdaf67566c09","type":"file","file":"IMAGES/Deep_Rock_Survivor_Screenshot_2024.02.15___02.28.54.74 1.webp","x":-38,"y":180,"width":400,"height":225}
+	],
+	"edges":[]
+}

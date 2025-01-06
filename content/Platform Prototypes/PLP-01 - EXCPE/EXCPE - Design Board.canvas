@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"124912a9fc70d0fb","type":"file","file":"IMAGES/pjimage-62.avif","x":200,"y":-240,"width":400,"height":200},
+		{"id":"0b8c2ae70afc3f8e","type":"file","file":"IMAGES/Pasted image 20240904104009.jpg","x":200,"y":-520,"width":400,"height":225},
+		{"id":"67d22cef9df449b2","type":"file","file":"IMAGES/armory-door-locked-resident-evil-2-remake.webp","x":-660,"y":-240,"width":400,"height":225},
+		{"id":"514997266e76edc6","type":"text","text":"First Person Puzzle Prototype Mood Board","x":-145,"y":-200,"width":250,"height":113},
+		{"id":"2cf759a06d82c039","type":"file","file":"IMAGES/Pasted image 20240904103918.jpg","x":-660,"y":0,"width":400,"height":225},
+		{"id":"433b5bf3b6d81e0b","type":"file","file":"IMAGES/Puzzle_2.webp","x":-220,"y":0,"width":400,"height":225},
+		{"id":"92e22e2a24e81866","type":"file","file":"IMAGES/098700.webp","x":200,"y":0,"width":400,"height":225},
+		{"id":"0cd946b443adaccb","type":"file","file":"IMAGES/Pasted image 20240904104027.jpg","x":-220,"y":-520,"width":400,"height":225},
+		{"id":"9d840fb76874df3b","type":"file","file":"IMAGES/Pasted image 20240904104040.jpg","x":-660,"y":-520,"width":400,"height":225}
+	],
+	"edges":[]
+}

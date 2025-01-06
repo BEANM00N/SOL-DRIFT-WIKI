@@ -11,16 +11,13 @@
             "id": "94c6fadaff05f05a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/The Cast.canvas",
-                "viewState": {
-                  "x": 1742,
-                  "y": 773.1689261233814,
-                  "zoom": -0.8814842117120161
-                }
+                "file": "content/The Cast.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "The Cast"
             }
           }
@@ -55,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "github pages",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,7 @@
             }
           },
           {
-            "id": "766566529ff8e511",
+            "id": "d39caf0b706c172e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,63 +174,62 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "d3949a4046a5b7bd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "18adc049648d033c",
-        "type": "window",
-        "children": [
-          {
-            "id": "fc886f8cebcfe436",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bce341c28b73e248",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "content/The Cast.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "The Cast"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 892,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bce341c28b73e248",
+  "active": "9e1e82decce201c5",
   "lastOpenFiles": [
-    "content/The Cast Raw Doc.md",
-    "docs/build.md",
-    "Tags",
-    "Images/Cast Member.png",
-    "Images/The Cast over the Acts.png",
-    "Images",
-    "content/The Cast.canvas",
-    "docs/index.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md"
+    "public/tags/HangerModule.html",
+    "public/tags/documentation.html",
+    "public/tags.html",
+    "public/tags/timeline.html",
+    "public/tags/IDXBOX.html",
+    "public/tags/todo.html",
+    "public/tags/Website.html",
+    "public/tags/Platform.html",
+    "public/tags/Robin.html",
+    "public/tags/platformprototypes.html",
+    "public/tags/Production.html",
+    "content/SD-Design Notes/Narrative/Research Notes/Worldbuilding Chat.md",
+    "content/SD-Design Notes/Narrative/Research Notes/What is the Heart of Darkness.md",
+    "content/SD-Design Notes/Narrative/Research Notes/Vietnam Retrospect .md",
+    "content/SD-Design Notes/Narrative/Research Notes/Tragedy And Lessons In Vietnam - Video Analysis.md",
+    "content/SD-Design Notes/Narrative/Research Notes/Research Notes.md",
+    "content/SD-Design Notes/Narrative/Research Notes/Media Note - Army Scout Pilot’s Worst Day in Vietnam & Other Stories 1.md",
+    "content/SD-Design Notes/Narrative/Research Notes/Grandfather's Stories.md",
+    "content/SD-Design Notes/Narrative/THE WAR.md",
+    "content/SD-Design Notes/Narrative/Notes & Structure.md",
+    "content/SD-Design Notes/Narrative/Narrative.md",
+    "content/SD-Design Notes/Narrative/Narrative Breakdown.md",
+    "content/SD-Design Notes/Narrative/Militirism.md",
+    "content/SD-Design Notes/Narrative/Act Structure.canvas",
+    "content/SD-Design Notes/Gameplay Design Notes/Gameplay Design Notes.md",
+    "content/SD-Design Notes/Gameplay Design Notes/Missiles.md",
+    "content/SD-Design Notes/Gameplay Design Notes/Everspace Level Design Breakdown.canvas",
+    "content/SD-Design Notes/The Cast.canvas",
+    "content/SD-Design Notes/Temp Asset List.md",
+    "content/SD-Design Notes/SD-Design Notes.md",
+    "content/SD-Design Notes/Mad Moon - Narrative & Pitching Questionnaire .md",
+    "content/SD-Design Notes/Level Design Research.md",
+    "content/SD-Design Notes/HANGER.md",
+    "content/SD-Design Notes/Art Style Brief .md",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/Website Graphics/Vamp Glitch Video.gif",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/Website Graphics/Skull-laughing-Gif.gif",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/Website Graphics/New Crosshair.png",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/Website Graphics/Foxcat Glitch Video.gif",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/Website Graphics/Animated logo GIF.gif",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/GDD Images/image4.png",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/GDD Images/image3.png",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/GDD Images/image2.png",
+    "content/MISC Folder/P-JOSH Folder/Image Bank/GDD Images/image1.png",
+    "content/MISC Folder/P-JOSH Folder/Notes/Zach List.md",
+    "content/MISC Folder/P-JOSH Folder/Notes/Website Porting.md",
+    "content/MISC Folder/P-JOSH Folder/Notes/SOL DRIFT GDD WIP.md",
+    "content/MISC Folder/P-JOSH Folder/Notes/Rob Comic Con SUCCESS.md",
+    "content/MISC Folder/P-JOSH Folder/Notes/Rendr festival Feedback.md",
+    "content/MISC Folder/P-JOSH Folder/Excalidraw/Pasted image 20240723164154.png",
+    "public/IMAGES/Untitled.canvas",
+    "content/IMAGES/Untitled.canvas",
+    "The Cast.canvas"
   ]
 }

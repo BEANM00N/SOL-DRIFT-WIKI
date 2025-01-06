@@ -1,0 +1,32 @@
+### Act 1
+###### Welcome To The Front Soldier
+You're introduced as a *new pilot* in training, you are on the receiving end of the propaganda, given the *impressions of future glory* but understand that you're on the bottom of that ladder - those who have seen more look at you with *contempt? Pity? arrogance?* You're not sure, and neither are they.
+###### You're an outsider, but you're impressive.
+Your squad and leader structure begin to see your talents as a pilot and make notes, using you where they know you're most valuable - giving you surprise tough tasks with *rising expectations*. This comes with the caveat that you are not liked or even trusted, you're just useful.
+###### The Worst That Could Happen...
+Whisperings of a large scale invasion is spreading, word of elite groups now entering the fight are escalating in supporting evidence causing fearful *prescient internal visions* amongst some of their doom in this war.
+###### We got your back, because we know you have ours.
+Through continued demonstrations in gameplay vignettes your squad slowly warm to you, and whilst there are a few holdouts, the majority have come to *accept you amongst them*. 
+###### We might have this in the bag
+*The pride* in your squad is running high, you are being tasked with more and more responsibility in regards to the war effort whilst those in high command are beginning to take note - the enemy seems to almost be a *puppy getting kicked* when your squadron appears and this has caused some in your group to grow cocky
+###### Flying Too High 
+Through your continued success Command issues your squad a highly sensitive mission that they believe you are best suited for *With help.* This is the first *introduction of the PMC* unit, they are a bolted on aspect of your unit in this mission and whilst it's not permanent - many are apprehensive, including your squad leader, there is tension and this marks the *first significant tonal shift* from the rest of the game, alluding to there being potentially more complex narrative beats ahead.
+###### A Taste of No Rules
+the PMC unit commits a heinous *war crime* leaving your squad dumbfounded, *cutting the music* and bringing the *star-spangled bravado* into a gut wrenching fizzle. A screaming match breaks out on comms between the leader structure whilst the regular Pilots sit in *horrified silence* like children exposed to something horrific and having their bright and happy world poisoned by a sudden injection of *horrid reality*, exposing for the first time the true nature that was their absurd reality from before.  
+###### Swept Under the Rug
+The PMC unit is removed from your squad but not out of penal action but simply as a reaction from their command structure to distance them from your unit out of formality - in reality the PMC squad goes unpunished and is re-deployed to other squadrons.
+###### The Worst Happens
+In a routine mission, one that will mirror the banters' and emotional high points from previous missions you are ambushed by *Talon's* Elite *Judge Squadron* - your Squad leader is killed by Judge 1. 
+###### Glory, Comradery - Fear
+The mentioned massive invasion operation is a go, without even a moment to mourn, *you the player are hoisted into your squad leaders role* as you have demonstrated yourself throughout the events of the story thus far as a pilot of excelling quality - The scale and likelihood of death is at it's highest point at the very moment you and your squad as a unit are the least assured of success. The initial scenes of battle are of *utter hopelessness and desolation* on a scale that has not been seen in the game before, it should be *overwhelming* at first with numerous objectives that are under threat.
+###### A Word from God
+During the invasion, just as the tide of warfare is evening and the player/UCA begins to see hope a *cataclysmic call for order* is heard through the unspeakably devastating, unexpected, unannounced and unknown blast from nowhere eliminates all parties in the operation bar a handful of ships that were fortunate to be outside of the main battle - a *Gamma Ray Burst*... but not just any burst - a concentrated one, a *Targeted* one...
+### Act 2
+###### Retreat and Recuperate
+With a significant portion of both the UCA's and Talon's forces perishing in the short exposure to the hyper concentrated burst of radiation, both parties have no choice to pull away from the front, running with their prideful tails between their legs. The Player is called forward to the Flight Admiral's office, an occasion quite rare and rarely celebrated, considering it's implications. Some squad members warn the Player of what might happen - the Brass need a fall guy after all... But this does not end up being the case. The Player along with their squad and AWACS Officer are being directed to transfer to another sector, a Classified Special Ops Unit, headed by the stone cold Ops Handler that can be seen on few occasions in the Hangar throughout the first Act. The player has a new mission - to spearhead Operation Reinheit.
+
+###### Down the River we go...
+With a new mission, responsibility, equipment, and a capable, Trustworthy Squad, the player is more than Ready to embark on this journey. This is surely the battle we can win, right?... 
+
+###### Outer Post
+The location of the Gamma Ray Burst's exact position is skewed at best, being so far out in the reaches of Deep Space, where no man or probe has even gone before. With the journey mapped out everyone was left a little disappointed, learning that the journey itself would last a minimum of 320 years... Everybody... except the Ops Handler. Having the vast library of Special Unit operation records at his fingertips, he's able to find a way to reach that space out in the void. In a one on one debrief, the Ops Handler dusts off some old reports of Operation Fade, a research mission led by Doctor Cardon and his team of genius researchers almost 30 years prior. The reports mentioned initial probing of Wormhole Tech, out near the Inner Post, with the hopes of finding a method of FTL travel - a technology so potent it had the possibility of altering the tide of any future war in the UCA's favor - Guaranteed Victory and Space SupremacySupremeacy

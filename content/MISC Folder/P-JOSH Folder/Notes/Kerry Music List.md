@@ -1,0 +1,12 @@
+- throbbing gristle
+- psychic tv
+- early gary newman
+- early human league - reprodcution and travelogue
+- early heaven 17
+- BEF
+- front 242
+- lebanon hangover
+- depesh mode first album
+- soft cell - nonstop erotic cabaret
+- fad gadget
+- orchestral maneauvres in the dark - structure and morality

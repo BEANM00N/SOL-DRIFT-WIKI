@@ -1,0 +1,15 @@
+
+ - [x] Control Keys Lighting up on control scheme widget
+ - [ ] Health doesn't communicate effectively
+ - [ ] Health regen
+ - [x] Objectives popping up when done. Add an objective screen (Press Tab or something)
+ - [x] Press ENTER to start wave
+ - [ ] Strong Controller Support
+ - [x] Gun Lead System
+ - [ ] Experiment with Pirates draining score while alive (Makes them priority targets)
+ - [x] Vipera Re-enabled
+ - [ ] camera moving ahead when drifting
+ - [ ] Fix Speed Addon when spamming shift
+ - [x] Aviation Flight lights on ship wings (Helps see it in pitch black. Pitch Black adds to the atmosphere)
+ - [ ] "play again" button
+ - [ ] Return to Hangar

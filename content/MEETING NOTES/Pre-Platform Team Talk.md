@@ -1,0 +1,17 @@
+ - PLATFORM STARTS 14th 
+ - PROTOTYPE ENDS 6th Dec
+ - Prototypes each involve a 2 week sprint
+ - Monday meetings at the start of each Sprint
+ - Friday meetings at the end of each Sprint
+ - We most likely ARE doing the 4th Prototype for Kerry and her mysterious contractor. 
+ - Changes in Vouching (Apparently easier)
+ - Expect workshops in the following;
+	 - Accounting
+	 - Vouching
+	 - Mental Health (Burnout Management)
+	 - Freelance Contracting
+	 - Storyboarding
+ - We will be claiming VGTR regularly
+ - Collective Market Research on each Prototype at the end of Prototyping Stage
+ - Each Prototype MUST be an executable ".exe" file.
+ - NI Screen will try to cover all of GAMESCOM and try to increase Delegation slots for companies to 2 people.
