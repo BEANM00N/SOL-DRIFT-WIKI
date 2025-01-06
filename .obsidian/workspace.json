@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Cast.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Cast"
+              "title": "index"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github pages",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +164,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,22 +172,24 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e1e82decce201c5",
+  "active": "94c6fadaff05f05a",
   "lastOpenFiles": [
-    "public/tags/HangerModule.html",
-    "public/tags/documentation.html",
-    "public/tags.html",
-    "public/tags/timeline.html",
-    "public/tags/IDXBOX.html",
-    "public/tags/todo.html",
-    "public/tags/Website.html",
-    "public/tags/Platform.html",
-    "public/tags/Robin.html",
-    "public/tags/platformprototypes.html",
-    "public/tags/Production.html",
+    "node_modules/esbuild/node_modules/@esbuild/openbsd-arm64",
+    "node_modules/esbuild/node_modules/@esbuild",
+    "node_modules/esbuild/node_modules",
+    "node_modules/esbuild",
+    "node_modules/hast-util-from-parse5/node_modules/@types/unist",
+    "node_modules/hast-util-from-parse5/node_modules/@types",
+    "node_modules/hast-util-from-parse5/node_modules",
+    "node_modules/hast-util-from-parse5",
+    "node_modules/hast-util-raw/node_modules/@types/unist",
+    "node_modules/hast-util-raw/node_modules/@types",
+    "node_modules/hast-util-raw/node_modules",
+    "content/The Cast.md",
     "content/SD-Design Notes/Narrative/Research Notes/Worldbuilding Chat.md",
     "content/SD-Design Notes/Narrative/Research Notes/What is the Heart of Darkness.md",
     "content/SD-Design Notes/Narrative/Research Notes/Vietnam Retrospect .md",
@@ -226,7 +226,6 @@
     "content/MISC Folder/P-JOSH Folder/Notes/Website Porting.md",
     "content/MISC Folder/P-JOSH Folder/Notes/SOL DRIFT GDD WIP.md",
     "content/MISC Folder/P-JOSH Folder/Notes/Rob Comic Con SUCCESS.md",
-    "content/MISC Folder/P-JOSH Folder/Notes/Rendr festival Feedback.md",
     "content/MISC Folder/P-JOSH Folder/Excalidraw/Pasted image 20240723164154.png",
     "public/IMAGES/Untitled.canvas",
     "content/IMAGES/Untitled.canvas",
