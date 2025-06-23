@@ -1,5 +1,6 @@
 ---
-sticker: lucide//codesandbox
+sticker: lucide//file
+color: var(--mk-color-gray)
 ---
 # Overview 
 

@@ -5,6 +5,7 @@ tags:
   - documentation
 cssclasses:
   - img-grid
+color: var(--mk-color-gray)
 ---
 # Overview 
 

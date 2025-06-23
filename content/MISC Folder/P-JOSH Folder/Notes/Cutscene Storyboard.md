@@ -1,4 +1,0 @@
- - [ ] Jet start animation
- - [ ] cut to side camera view of ship flying
- - [ ] Cut to gameplay
- - [ ] Lower side camera cut of ship doing an insane maneuvers

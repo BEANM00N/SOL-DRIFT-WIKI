@@ -1,2 +1,0 @@
-- Dedicated Servers
-- Peer to Peer

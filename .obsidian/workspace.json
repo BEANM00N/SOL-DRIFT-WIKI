@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/SD-Design Notes/PitchDeck Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "PitchDeck Info"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +75,7 @@
             }
           },
           {
-            "id": "3b7a4688d377236c",
+            "id": "7793bd4f2d453e28",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -178,14 +179,24 @@
   },
   "active": "d233f0b8321f8bc9",
   "lastOpenFiles": [
-    "content/Images/Flinterp Experiements 021224.SASimg.png",
-    "content/Images/Flinterp Constant & Ease Function Experiments - 021224.SASIMG.png",
-    "content/Images/EXCPE Color Swatch.png",
-    "content/Images/Everspace Level Breakdown 4.png",
-    "content/Images/Everspace Level Breakdown 3.png",
-    "content/Images/Everspace Level Breakdown 2.png",
-    "content/Images/Everspace Level Breakdown 1.png",
-    "content/Images/Escape the Car.jpg",
+    "content/SD-Design Notes/SOL DRIFT Questionnaire (2024).md",
+    "content/SD-Design Notes/SOL DRIFT GDD WIP (2024).md",
+    "content/SD-Design Notes/SOL DRIFT GDD WIP.md",
+    "content/SD-Design Notes/Publisher List.md",
+    "content/Images/World of Tanks Blitz.png",
+    "content/Images/World of Tanks Blitz 1.png",
+    "content/Images/Wolfenstein.png",
+    "content/Images/Wolfenstein 2.png",
+    "content/Images/Wingman.png",
+    "content/Images/Wingman 1.png",
+    "content/Images/What-is-The-Three-Act-Structure-Plot-Diagram.jpg",
+    "content/Images/We Were Here.webp",
+    "content/Images/Warhammer.jpg",
+    "content/Images/Warhammer 3.jpg",
+    "content/Images/Untitled.canvas",
+    "content/Images/Pasted image 20241022200750.md",
+    "content/Images/IMAGES.md",
+    "content/Images",
     "content/MISC Folder/P-JOSH Folder/Dev Note.md",
     "content/index.md",
     "node_modules/y18n/build/lib/platform-shims/node.js",
@@ -199,7 +210,6 @@
     "node_modules/y18n/package.json",
     "node_modules/y18n/CHANGELOG.md",
     "node_modules/y18n/index.mjs",
-    "node_modules/y18n/build",
     "node_modules/readdirp/README.md",
     "node_modules/sisteransi/readme.md",
     "node_modules/typescript/SECURITY.md",
@@ -211,19 +221,11 @@
     "node_modules/katex/contrib/mhchem/README.md",
     "node_modules/katex/contrib/copy-tex/README.md",
     "node_modules/katex/contrib/auto-render/README.md",
-    "node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
-    "node_modules/cytoscape-fcose/demo/demo.gif",
     "node_modules/@shuding/opentype.js/RELEASES.md",
     "node_modules/@shuding/opentype.js/README.md",
     "node_modules/katex/dist/README.md",
     "node_modules/katex/src/metrics/README.md",
     "node_modules/dagre-d3-es/README.md",
-    "node_modules/dagre-d3-es/LICENSE.md",
-    "node_modules/foreground-child/README.md",
-    "node_modules/glob/README.md",
-    "node_modules/undici-types/README.md",
-    "node_modules/bidi-js/README.md",
-    "node_modules/cli-spinner/img/spinner.gif",
     "content/SD-Design Notes/Narrative/Act Structure.canvas",
     "content/SD-Design Notes/Gameplay Design Notes/Everspace Level Design Breakdown.canvas",
     "content/SD-Design Notes/The Cast.canvas",

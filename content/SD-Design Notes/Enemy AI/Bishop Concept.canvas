@@ -1,0 +1,864 @@
+{
+  "nodes": [
+    {
+      "id": "fb61a1bb832d156f",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -752,
+      "y": -303,
+      "width": 4149,
+      "height": 2274,
+      "color": "#ffffff"
+    },
+    {
+      "id": "860da7e029aa04f1",
+      "type": "file",
+      "file": "IMAGES/Bishop_isometric.png",
+      "styleAttributes": {},
+      "x": 1040,
+      "y": -187,
+      "width": 720,
+      "height": 405
+    },
+    {
+      "id": "bea5b048b9f4235c",
+      "type": "file",
+      "file": "IMAGES/Bishop_Front.png",
+      "styleAttributes": {},
+      "x": 1040,
+      "y": 270,
+      "width": 729,
+      "height": 410
+    },
+    {
+      "id": "09680215a8fc45b8",
+      "type": "text",
+      "text": "## STRAIGHT FIRE BEAM",
+      "styleAttributes": {},
+      "x": 1923,
+      "y": -212,
+      "width": 339,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "1a782f023194eff2",
+      "type": "text",
+      "text": "## FAST LINEAR TARGET TO GET TO FIRING POINT FASTER, OUTSIDE THE PLAYER'S IMMEDIATE READIUS",
+      "styleAttributes": {},
+      "x": 1923,
+      "y": -54,
+      "width": 1411,
+      "height": 70,
+      "color": "3"
+    },
+    {
+      "id": "c786539da47b3781",
+      "type": "file",
+      "file": "IMAGES/Radius Wheel.png",
+      "styleAttributes": {},
+      "x": 1923,
+      "y": 42,
+      "width": 772,
+      "height": 772
+    },
+    {
+      "id": "97ef4a7060528906",
+      "type": "file",
+      "file": "IMAGES/Bishop_Cannon_MK2.png",
+      "styleAttributes": {},
+      "x": -206,
+      "y": -187,
+      "width": 1211,
+      "height": 681
+    },
+    {
+      "id": "0052e8ab52a2f3da",
+      "type": "text",
+      "text": "## WORKS IN PAIRS TO PINCER TARGETS",
+      "styleAttributes": {},
+      "x": 1923,
+      "y": -132,
+      "width": 552,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "65ef82da7a437bdd",
+      "type": "text",
+      "text": "### ENEMY RADIUS",
+      "styleAttributes": {},
+      "x": 2722,
+      "y": 372,
+      "width": 273,
+      "height": 56,
+      "color": "5"
+    },
+    {
+      "id": "a903912684a1cdc4",
+      "type": "file",
+      "file": "IMAGES/Bishop_Hydraulics.png",
+      "styleAttributes": {},
+      "x": -206,
+      "y": 541,
+      "width": 597,
+      "height": 336
+    },
+    {
+      "id": "8ccd22d395ed5eef",
+      "type": "file",
+      "file": "IMAGES/Bishop_Cannon_MK1.png",
+      "styleAttributes": {},
+      "x": 420,
+      "y": 541,
+      "width": 599,
+      "height": 337
+    },
+    {
+      "id": "58d0108a3b21557d",
+      "type": "text",
+      "text": "## Synced Gunning Runs in paires before splitting off",
+      "styleAttributes": {},
+      "x": -692,
+      "y": -220,
+      "width": 427,
+      "height": 106,
+      "color": "3"
+    },
+    {
+      "id": "019a1cc62357fbe4",
+      "type": "text",
+      "text": "## Unlimited Chaff, encouraging Primary Fire over Missiles",
+      "styleAttributes": {},
+      "x": -692,
+      "y": -81,
+      "width": 427,
+      "height": 151,
+      "color": "3"
+    },
+    {
+      "id": "980998cc59958881",
+      "type": "text",
+      "text": "## Front Mounted Heat Shield",
+      "styleAttributes": {},
+      "x": -692,
+      "y": 98,
+      "width": 427,
+      "height": 113,
+      "color": "3"
+    },
+    {
+      "id": "94dfb4af729dd0a4",
+      "type": "text",
+      "text": "## Top Mounted Gun",
+      "styleAttributes": {},
+      "x": -692,
+      "y": 245,
+      "width": 427,
+      "height": 74,
+      "color": "3"
+    },
+    {
+      "id": "c7234505497f2b79",
+      "type": "text",
+      "text": "## Angles itself up and Fires from a Stationary position",
+      "styleAttributes": {},
+      "x": -692,
+      "y": 348,
+      "width": 427,
+      "height": 146,
+      "color": "3"
+    },
+    {
+      "id": "afdf395361bc023e",
+      "type": "text",
+      "text": "# BISHOP CONCEPT",
+      "styleAttributes": {},
+      "x": 1132,
+      "y": -443,
+      "width": 381,
+      "height": 56,
+      "color": "4"
+    },
+    {
+      "id": "ec5cf904f1dddebd",
+      "type": "file",
+      "file": "IMAGES/DOGFIGHT.gif",
+      "styleAttributes": {},
+      "x": -692,
+      "y": 946,
+      "width": 1393,
+      "height": 926
+    },
+    {
+      "id": "ab2d76af036fd8f1",
+      "type": "file",
+      "file": "Pasted image 20241206142059.png",
+      "styleAttributes": {},
+      "x": 834,
+      "y": 946,
+      "width": 891,
+      "height": 433
+    },
+    {
+      "id": "ac93996dd9e11a5d",
+      "type": "file",
+      "file": "Pasted image 20241206142112.png",
+      "styleAttributes": {},
+      "x": 834,
+      "y": 1414,
+      "width": 879,
+      "height": 458
+    },
+    {
+      "id": "c56d1b1673dbcd06",
+      "type": "text",
+      "text": "Telegraphed Boosted distancing with wide curve",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 2949,
+      "width": 284,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "7457c2d6f1fe8ebc",
+      "type": "text",
+      "text": "Countermeasure Dump",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 3078,
+      "width": 284,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "e8334b522d931438",
+      "type": "text",
+      "text": "Enrage - Chase/Dogfight",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 3174,
+      "width": 284,
+      "height": 40,
+      "color": "2"
+    },
+    {
+      "id": "faafb1a49f7f8b8f",
+      "type": "text",
+      "text": "Panic - Looking for closest ally, aggroing that ally too",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 3244,
+      "width": 284,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "9a7b7f2ec36f9157",
+      "type": "text",
+      "text": "Predictive Shield Deployment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 3374,
+      "width": 284,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0bfa1ca896b30412",
+      "type": "text",
+      "text": "Drift 180 (Shoot down Missile)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 3464,
+      "width": 284,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "30b8c8faa33a5ffb",
+      "type": "text",
+      "text": "Unpredictable \"Scatter\" - Random repositioning with a fast interval; Zigzag",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1169,
+      "y": 2811,
+      "width": 284,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "9dc5cb403a10b70a",
+      "type": "text",
+      "text": "Chaff Burst",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1579,
+      "y": 3078,
+      "width": 284,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "4909b5e1afb7047e",
+      "type": "text",
+      "text": "Mine ",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1579,
+      "y": 3157,
+      "width": 284,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "4ce4a47f2276c717",
+      "type": "text",
+      "text": "Decoy Drones",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1579,
+      "y": 3234,
+      "width": 284,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "26a0c879aca14c5a",
+      "type": "text",
+      "text": "Radar Reprogramming (Missile Parry)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1579,
+      "y": 3314,
+      "width": 284,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "c00aac26fbcac774",
+      "type": "text",
+      "text": "## Attack Functions",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -123,
+      "y": 2712,
+      "width": 284,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "f85dfde3c06f30a3",
+      "type": "text",
+      "text": "Extend Chase/Guns Only",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -123,
+      "y": 2889,
+      "width": 284,
+      "height": 60,
+      "color": "#aa6255"
+    },
+    {
+      "id": "88a6aede6d14509c",
+      "type": "text",
+      "text": "Break Contact",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -123,
+      "y": 2979,
+      "width": 284,
+      "height": 60,
+      "color": "#aa6255"
+    },
+    {
+      "id": "5c578b53c41bc82b",
+      "type": "text",
+      "text": "Loose Chase",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 268,
+      "y": 2889,
+      "width": 284,
+      "height": 60,
+      "color": "#aa6255"
+    },
+    {
+      "id": "25d328dc5d3b3a77",
+      "type": "text",
+      "text": "Tight Chase",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 268,
+      "y": 2979,
+      "width": 284,
+      "height": 60,
+      "color": "#aa6255"
+    },
+    {
+      "id": "69873cd6d26505cf",
+      "type": "text",
+      "text": "Drift Fire",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 268,
+      "y": 3067,
+      "width": 284,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "75bc6c66deeca37c",
+      "type": "text",
+      "text": "Missile",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 601,
+      "y": 2889,
+      "width": 284,
+      "height": 60,
+      "color": "#aa6255"
+    },
+    {
+      "id": "4b6ce0bcc9504f33",
+      "type": "text",
+      "text": "Primary Gun",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 601,
+      "y": 2979,
+      "width": 284,
+      "height": 60,
+      "color": "#aa6255"
+    },
+    {
+      "id": "e0d23c3ea845db8e",
+      "type": "text",
+      "text": "## Hit Response",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 885,
+      "y": 2714,
+      "width": 284,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "2660494174b84d53",
+      "type": "text",
+      "text": "## Targeted Response",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1843,
+      "y": 2714,
+      "width": 284,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "23e0937acddcdad8",
+      "type": "text",
+      "text": "Countermeasure Dump",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2127,
+      "y": 2811,
+      "width": 284,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "20eb89aa81a67278",
+      "type": "text",
+      "text": "## Death Functions",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2411,
+      "y": 2714,
+      "width": 284,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "ecf274525ac6b314",
+      "type": "text",
+      "text": "Unpredictable \"Scatter\" - Random repositioning with a fast interval; Zigzag",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2127,
+      "y": 2891,
+      "width": 284,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "3a95dd84d80656aa",
+      "type": "text",
+      "text": "Spin out and Firing Primary",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2695,
+      "y": 2811,
+      "width": 284,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "04a04715e31388b3",
+      "type": "text",
+      "text": "Explosion",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2695,
+      "y": 2887,
+      "width": 284,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "90b2ee9034a7f15d",
+      "type": "text",
+      "text": "Chain Explosion",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2695,
+      "y": 2968,
+      "width": 284,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "16510a72ccf2fd57",
+      "type": "text",
+      "text": "Kamikaze",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2695,
+      "y": 3048,
+      "width": 284,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "bcf472d2bc2e3c9e",
+      "type": "text",
+      "text": "Telegraphed Boosted distancing with wide curve",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2127,
+      "y": 3029,
+      "width": 284,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "5d971d072cbf6874",
+      "type": "text",
+      "text": "Panic - Looking for closest ally, aggroing that ally too",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2127,
+      "y": 3154,
+      "width": 284,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "d66da4ee12e78c29",
+      "type": "text",
+      "text": "Predictive Shield Deployment",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2127,
+      "y": 3284,
+      "width": 284,
+      "height": 60,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "f7081166f5732891",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "c56d1b1673dbcd06",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "40da423b3f0abede",
+      "styleAttributes": {},
+      "fromNode": "7457c2d6f1fe8ebc",
+      "fromSide": "right",
+      "toNode": "9dc5cb403a10b70a",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "be6bd607ab357ddf",
+      "styleAttributes": {},
+      "fromNode": "7457c2d6f1fe8ebc",
+      "fromSide": "right",
+      "toNode": "4909b5e1afb7047e",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "6ac14e0838874ad3",
+      "styleAttributes": {},
+      "fromNode": "7457c2d6f1fe8ebc",
+      "fromSide": "right",
+      "toNode": "4ce4a47f2276c717",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "b756c6df486d392a",
+      "styleAttributes": {},
+      "fromNode": "7457c2d6f1fe8ebc",
+      "fromSide": "right",
+      "toNode": "26a0c879aca14c5a",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "8db6b15084e9e758",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "7457c2d6f1fe8ebc",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "cd76fbd41346f796",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "e8334b522d931438",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "c4f038463193b5d9",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "faafb1a49f7f8b8f",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "9ccb25977ba583ff",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "9a7b7f2ec36f9157",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "ef760ca45bb45968",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "0bfa1ca896b30412",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "e7db9337556055a3",
+      "styleAttributes": {},
+      "fromNode": "e0d23c3ea845db8e",
+      "fromSide": "bottom",
+      "toNode": "30b8c8faa33a5ffb",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "210b7f86d3947990",
+      "styleAttributes": {},
+      "fromNode": "c00aac26fbcac774",
+      "fromSide": "bottom",
+      "toNode": "5c578b53c41bc82b",
+      "toSide": "top",
+      "color": "#ffffff"
+    },
+    {
+      "id": "d6fc35664b6f9fc3",
+      "styleAttributes": {},
+      "fromNode": "5c578b53c41bc82b",
+      "fromSide": "left",
+      "toNode": "f85dfde3c06f30a3",
+      "toSide": "right",
+      "color": "#ffffff"
+    },
+    {
+      "id": "06137095027b9856",
+      "styleAttributes": {},
+      "fromNode": "25d328dc5d3b3a77",
+      "fromSide": "left",
+      "toNode": "f85dfde3c06f30a3",
+      "toSide": "right",
+      "color": "#ffffff"
+    },
+    {
+      "id": "5106afd837386bbf",
+      "styleAttributes": {},
+      "fromNode": "5c578b53c41bc82b",
+      "fromSide": "left",
+      "toNode": "88a6aede6d14509c",
+      "toSide": "right",
+      "color": "#ffffff"
+    },
+    {
+      "id": "2451242f96979c89",
+      "styleAttributes": {},
+      "fromNode": "25d328dc5d3b3a77",
+      "fromSide": "left",
+      "toNode": "88a6aede6d14509c",
+      "toSide": "right",
+      "color": "#ffffff"
+    },
+    {
+      "id": "395cbb1931e55014",
+      "styleAttributes": {},
+      "fromNode": "5c578b53c41bc82b",
+      "fromSide": "right",
+      "toNode": "75bc6c66deeca37c",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "b09f64020ce90b9e",
+      "styleAttributes": {},
+      "fromNode": "25d328dc5d3b3a77",
+      "fromSide": "right",
+      "toNode": "4b6ce0bcc9504f33",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "03736c197433a28a",
+      "styleAttributes": {},
+      "fromNode": "2660494174b84d53",
+      "fromSide": "bottom",
+      "toNode": "23e0937acddcdad8",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "313ff9ddd3e9a7ad",
+      "styleAttributes": {},
+      "fromNode": "2660494174b84d53",
+      "fromSide": "bottom",
+      "toNode": "ecf274525ac6b314",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "c7d6a71c78293985",
+      "styleAttributes": {},
+      "fromNode": "2660494174b84d53",
+      "fromSide": "bottom",
+      "toNode": "bcf472d2bc2e3c9e",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "9d35aab3f2f3812e",
+      "styleAttributes": {},
+      "fromNode": "2660494174b84d53",
+      "fromSide": "bottom",
+      "toNode": "5d971d072cbf6874",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "bff648077f19b165",
+      "styleAttributes": {},
+      "fromNode": "2660494174b84d53",
+      "fromSide": "bottom",
+      "toNode": "d66da4ee12e78c29",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "c689a180381e54d4",
+      "styleAttributes": {},
+      "fromNode": "20eb89aa81a67278",
+      "fromSide": "bottom",
+      "toNode": "3a95dd84d80656aa",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "b3f5a58ad076a8ca",
+      "styleAttributes": {},
+      "fromNode": "20eb89aa81a67278",
+      "fromSide": "bottom",
+      "toNode": "04a04715e31388b3",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "c8c0dd0e12ed90d6",
+      "styleAttributes": {},
+      "fromNode": "20eb89aa81a67278",
+      "fromSide": "bottom",
+      "toNode": "90b2ee9034a7f15d",
+      "toSide": "left",
+      "color": "#ffffff"
+    },
+    {
+      "id": "abb54a462d8ff158",
+      "styleAttributes": {},
+      "fromNode": "20eb89aa81a67278",
+      "fromSide": "bottom",
+      "toNode": "16510a72ccf2fd57",
+      "toSide": "left",
+      "color": "#ffffff"
+    }
+  ],
+  "metadata": {}
+}

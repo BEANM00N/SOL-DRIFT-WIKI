@@ -1,5 +1,5 @@
 ---
 sticker: lucide//wrench
-color: var(--mk-color-base-40)
+color: var(--mk-color-green)
 ---
 #PlatformPrototypes

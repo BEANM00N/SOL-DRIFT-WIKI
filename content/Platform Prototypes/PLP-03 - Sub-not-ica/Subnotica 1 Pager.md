@@ -7,6 +7,7 @@ cssclasses:
   - img-grid
 aliases:
   - 11/11/24 World Building Chat
+color: var(--mk-color-gray)
 ---
 # Overview 
 

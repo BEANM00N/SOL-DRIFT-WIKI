@@ -1,5 +1,5 @@
 ---
-color: var(--mk-color-base-40)
+color: var(--mk-color-green)
 sticker: lucide//puzzle
 aliases: []
 ---
