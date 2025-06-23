@@ -1,6 +1,6 @@
 
 ---
-- **List of Identified UK Publishers/Investors for Gamescom Meetings (with submission info):**
+## List of Identified UK Publishers/Investors for Gamescom Meetings (with submission info):
     
     - **Coatsink:**
         - How to Submit: Partner form at `https://coatsink.com/partner`
