@@ -13,48 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Epic Mega Grant Application.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Epic Mega Grant Application"
-            }
-          },
-          {
-            "id": "05c93b6cc4b18586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Mentor Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mentor Notes"
-            }
-          },
-          {
-            "id": "81bad0b428502f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Mentor Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mentor Notes"
-            }
-          },
-          {
-            "id": "680e3d8451dc40ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "content/Publisher List.md",
                 "mode": "source",
                 "source": false
@@ -63,8 +21,7 @@
               "title": "Publisher List"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,22 +178,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "680e3d8451dc40ca",
+  "active": "d233f0b8321f8bc9",
   "lastOpenFiles": [
     "content/SOL DRIFT Questionnaire (2024).md",
     "content/SOL DRIFT GDD WIP (2024).md",
-    "content/SD-Design Notes/SOL DRIFT GDD WIP.md",
     "content/Publisher List.md",
+    "content/Images/New Throttling Behavior-031224.SASIMG.png",
+    "content/Images/New Boost Functionality .SASIMG.png",
+    "content/Images/Movement States Handler Overhaul Mk1 (Expanded).IMG.png",
+    "content/Images/megastructure.png",
+    "content/Images/mad_moon_studios_2024-09-04_03.17pm.png",
+    "content/SD-Design Notes/SOL DRIFT GDD WIP.md",
     "content/Images/World of Tanks Blitz.png",
     "content/Images/World of Tanks Blitz 1.png",
     "content/Images/Wolfenstein.png",
     "content/Images/Wolfenstein 2.png",
     "content/Images/Wingman.png",
-    "content/Images/Wingman 1.png",
-    "content/Images/What-is-The-Three-Act-Structure-Plot-Diagram.jpg",
-    "content/Images/We Were Here.webp",
-    "content/Images/Warhammer.jpg",
-    "content/Images/Warhammer 3.jpg",
     "content/Images/Untitled.canvas",
     "content/Images/Pasted image 20241022200750.md",
     "content/Images/IMAGES.md",
@@ -269,7 +226,6 @@
     "node_modules/@shuding/opentype.js/README.md",
     "node_modules/katex/dist/README.md",
     "node_modules/katex/src/metrics/README.md",
-    "node_modules/dagre-d3-es/README.md",
     "content/SD-Design Notes/Narrative/Act Structure.canvas",
     "content/SD-Design Notes/Gameplay Design Notes/Everspace Level Design Breakdown.canvas",
     "content/SD-Design Notes/The Cast.canvas",
