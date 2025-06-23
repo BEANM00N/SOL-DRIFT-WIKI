@@ -11,14 +11,10 @@
             "id": "d233f0b8321f8bc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Publisher List.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Publisher List"
+              "title": "New tab"
             }
           }
         ]
@@ -178,28 +174,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d233f0b8321f8bc9",
+  "active": "446e6705ff1d07db",
   "lastOpenFiles": [
     "content/SOL DRIFT Questionnaire (2024).md",
     "content/SOL DRIFT GDD WIP (2024).md",
+    "content/SD-Design Notes/Hangar Brief (Outdated).md",
     "content/Publisher List.md",
-    "content/Images/New Throttling Behavior-031224.SASIMG.png",
-    "content/Images/New Boost Functionality .SASIMG.png",
-    "content/Images/Movement States Handler Overhaul Mk1 (Expanded).IMG.png",
-    "content/Images/megastructure.png",
-    "content/Images/mad_moon_studios_2024-09-04_03.17pm.png",
+    "content/index.md",
+    "content/Images/kisspng-portable-network-graphics-clip-art-transparency-ma-latest-stories-published-on-our-space-medium-5d2af1d7c92a50.930754791563095511824.png",
+    "content/Images/kisspng-planet-nine-atmosphere-deviantart-astronomical-obj-high-rez-planet-stock-6-by-random-acts-stock-on-de-5b70f8d649ae62.3264572815341303903018.png",
+    "content/Images/Everspace Level Breakdown 2.png",
+    "content/Images/Everspace Level Breakdown 1.png",
+    "content/Images/Escape the Car.jpg",
+    "content/Images/Enter the Gungeon.webp",
+    "content/Images/Enemy 2.png",
+    "content/Images/Enemy 1.png",
+    "content/Images/DOGFIGHT.gif",
+    "content/Images/DII_Img.png",
+    "content/Epic Mega Grant Application.md",
+    "content/Alchemists Cook Book/Validated Gets.md",
+    "content/Alchemists Cook Book/INTERFACES.md",
     "content/SD-Design Notes/SOL DRIFT GDD WIP.md",
-    "content/Images/World of Tanks Blitz.png",
-    "content/Images/World of Tanks Blitz 1.png",
-    "content/Images/Wolfenstein.png",
-    "content/Images/Wolfenstein 2.png",
-    "content/Images/Wingman.png",
     "content/Images/Untitled.canvas",
     "content/Images/Pasted image 20241022200750.md",
     "content/Images/IMAGES.md",
     "content/Images",
     "content/MISC Folder/P-JOSH Folder/Dev Note.md",
-    "content/index.md",
     "node_modules/y18n/build/lib/platform-shims/node.js",
     "node_modules/y18n/build/lib/platform-shims",
     "node_modules/y18n/build/lib/cjs.js",
@@ -223,9 +223,6 @@
     "node_modules/katex/contrib/copy-tex/README.md",
     "node_modules/katex/contrib/auto-render/README.md",
     "node_modules/@shuding/opentype.js/RELEASES.md",
-    "node_modules/@shuding/opentype.js/README.md",
-    "node_modules/katex/dist/README.md",
-    "node_modules/katex/src/metrics/README.md",
     "content/SD-Design Notes/Narrative/Act Structure.canvas",
     "content/SD-Design Notes/Gameplay Design Notes/Everspace Level Design Breakdown.canvas",
     "content/SD-Design Notes/The Cast.canvas",
